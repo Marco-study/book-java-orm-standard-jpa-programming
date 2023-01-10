@@ -1,7 +1,14 @@
-# Java-ORM-Standard-JPA-Programming
+# book-java-orm-standard-jpa-programming
 ## 참고 링크
 - [스터디 운영방안](https://www.notion.so/backend-devcourse/ORM-JPA-6c7b41959d7f411c844bfcb921aa19a1)
 - [책 정보 링크](http://www.yes24.com/Product/Goods/19040233)
+
+## 커밋 규칙
+- 패키지와 파일명은 아래와 같이 통일합니다.
+  - 각자의 발표자료 파일: `단원/소단원번호_소단원제목_본인이름.md`
+    - ex) `3장/1_엔티티 매니저 팩토리와 엔티티 매니저_권성준.md`
+  - 발표자가 스터디 내용을 정리한 파일: `단원/날짜 스터디 논의 내용.md`
+    - ex) `3장/23.01.12 스터디 논의 내용.md`
 
 ## 3장. 영속성 관리
 | 소단원 | 발표자료
