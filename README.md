@@ -13,9 +13,9 @@
 ## 발표 자료
 | 단원 | 참여자
 :---: | :---:
-[3장. 영속성 관리]() | [공태현]() / [권성준]() / [김명환]() / [이수영]()
-[4장. 엔티티 매핑]() | [공태현]() / [권성준]() / [김명환]() / [이수영]()
-[5장. 연관관계 매핑 기초]() | [공태현]() / [권성준]() / [김명환]() / [이수영]()
+[3장. 영속성 관리](https://github.com/Marco-study/book-java-orm-standard-jpa-programming/tree/main/3%EC%9E%A5-%EC%98%81%EC%86%8D%EC%84%B1%20%EA%B4%80%EB%A6%AC) | [공태현](https://github.com/Marco-study/book-java-orm-standard-jpa-programming/blob/main/3%EC%9E%A5-%EC%98%81%EC%86%8D%EC%84%B1%20%EA%B4%80%EB%A6%AC/%EA%B3%B5%ED%83%9C%ED%98%84.md) / [권성준](https://github.com/Marco-study/book-java-orm-standard-jpa-programming/blob/main/3%EC%9E%A5-%EC%98%81%EC%86%8D%EC%84%B1%20%EA%B4%80%EB%A6%AC/%EA%B6%8C%EC%84%B1%EC%A4%80.md) / [김명환](https://github.com/Marco-study/book-java-orm-standard-jpa-programming/blob/main/3%EC%9E%A5-%EC%98%81%EC%86%8D%EC%84%B1%20%EA%B4%80%EB%A6%AC/%EA%B9%80%EB%AA%85%ED%99%98.md) / [이수영](https://github.com/Marco-study/book-java-orm-standard-jpa-programming/blob/main/3%EC%9E%A5-%EC%98%81%EC%86%8D%EC%84%B1%20%EA%B4%80%EB%A6%AC/%EC%9D%B4%EC%88%98%EC%98%81.md)
+[4장. 엔티티 매핑](https://github.com/Marco-study/book-java-orm-standard-jpa-programming/tree/main/4%EC%9E%A5-%EC%97%94%ED%8B%B0%ED%8B%B0%20%EB%A7%A4%ED%95%91) | [공태현](https://github.com/Marco-study/book-java-orm-standard-jpa-programming/blob/main/4%EC%9E%A5-%EC%97%94%ED%8B%B0%ED%8B%B0%20%EB%A7%A4%ED%95%91/%EA%B3%B5%ED%83%9C%ED%98%84.md) / [권성준](https://github.com/Marco-study/book-java-orm-standard-jpa-programming/blob/main/4%EC%9E%A5-%EC%97%94%ED%8B%B0%ED%8B%B0%20%EB%A7%A4%ED%95%91/%EA%B6%8C%EC%84%B1%EC%A4%80.md) / [김명환](https://github.com/Marco-study/book-java-orm-standard-jpa-programming/blob/main/4%EC%9E%A5-%EC%97%94%ED%8B%B0%ED%8B%B0%20%EB%A7%A4%ED%95%91/%EA%B9%80%EB%AA%85%ED%99%98.md) / [이수영](https://github.com/Marco-study/book-java-orm-standard-jpa-programming/blob/main/4%EC%9E%A5-%EC%97%94%ED%8B%B0%ED%8B%B0%20%EB%A7%A4%ED%95%91/%EC%9D%B4%EC%88%98%EC%98%81.md)
+[5장. 연관관계 매핑 기초]() | [공태현]() / [권성준]() / [김명환]() / [김소현]() / [이수영]()
 [6장. 다양한 연관관계 매핑]() | [공태현]() / [권성준]() / [김명환]() / [이수영]()
 [7장. 고급 매핑]() | [공태현]() / [권성준]() / [김명환]() / [이수영]()
 [8장. 프록시와 연관관계 관리]() | [공태현]() / [권성준]() / [김명환]() / [이수영]()
